@@ -1,4 +1,4 @@
-script_key="LruXbvSirXPAGhWZmMeFcqQfqgUVamRH";
+script_key="HznpsSSfuiuWjjFlqIVRUxkAbhkwgpMS";
 --You Can Get Key Here
 --Config
 getgenv().YuukiHub = {
