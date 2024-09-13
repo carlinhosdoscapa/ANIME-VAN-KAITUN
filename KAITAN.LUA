@@ -32,7 +32,7 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/73c2eeb0faf9ea
 repeat task.wait() until game:IsLoaded() 
 getgenv().Hermanos_Settings = {
 	['key'] = 'f0b60f7a-9097-478e-92ea-ab1541043a54',
-	['PC'] = 'DDC-1',
+	['PC'] = 'ANIME VANGUARD - UGPHONE',
 }
 task.spawn(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/hermanos-dev/hermanos-script/main/av-main.lua'))() end)
 
